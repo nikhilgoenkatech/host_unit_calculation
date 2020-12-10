@@ -2,12 +2,12 @@
    "tenant-details":
    [
     {
-      "tenant-URL"  : "https://aij74273.live.dynatrace.com/api/v1/",
+      "tenant-URL"  : "https://xxxxx.live.dynatrace.com/api/v1/",
       "API-token"   : "my_token",
       "tenant-name" : "TemenosUS"
     },
     {
-      "tenant-URL"  : "https://ald13013.live.dynatrace.com/api/v1/",
+      "tenant-URL"  : "https://xxxx.live.dynatrace.com/api/v1/",
       "API-token"   : "my_token",
       "tenant-name" : "TemenosAU"
     }
